@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "groupauth", "groupauth.csproj", "{B003D943-1130-46FB-BA23-064F627483AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B003D943-1130-46FB-BA23-064F627483AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B003D943-1130-46FB-BA23-064F627483AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B003D943-1130-46FB-BA23-064F627483AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B003D943-1130-46FB-BA23-064F627483AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77FED207-42BE-45DB-9515-E941574AC753}
+	EndGlobalSection
+EndGlobal
